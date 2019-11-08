@@ -2,11 +2,13 @@
 
 ### There are 2 files present
 
-File 1 - main.py
+**File 1 - main.py**
 
-This is the main driver file.
+*This is the main driver file.*
+
 It contains two functions:
 - find(path,base): Checks if the file exists. 
+
 path = file path 
 base = Input file base name
 
@@ -22,8 +24,9 @@ maxSize = Maximum File size specified by the user
 
 Once the combinations are found, the function called CreateFile() from writer.py
 
-File 2 - writer.py
-Responsible for writing file to disk and contains function CreateFile()
+**File 2 - writer.py**
+
+*Responsible for writing file to disk and contains function CreateFile()*
 
 -CreateFile(part,path,out,sizeMapper)
 part - The array containing file combinations
@@ -34,3 +37,4 @@ sizeMapper - A dictionary which maps filesize to filename.
 Sample Execution:
 Run main.py
 (Example Screenshot is given below)
+![alt text](https://github.com/drstrange11/jSON-Merger/blob/master/sample.PNG)
