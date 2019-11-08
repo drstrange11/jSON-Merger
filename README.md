@@ -10,6 +10,7 @@ It contains two functions:
 - find(path,base): Checks if the file exists. 
 
 path = file path 
+
 base = Input file base name
 
 - merge(path,inputBase, outputBase, maxSize): This function finds the combinations for merging.
@@ -29,9 +30,13 @@ Once the combinations are found, the function called CreateFile() from writer.py
 *Responsible for writing file to disk and contains function CreateFile()*
 
 -CreateFile(part,path,out,sizeMapper)
+
 part - The array containing file combinations
+
 path - file path
+
 out - output file base name
+
 sizeMapper - A dictionary which maps filesize to filename.
 
 Sample Execution:
