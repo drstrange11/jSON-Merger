@@ -11,10 +11,15 @@ path = file path
 base = Input file base name
 
 - merge(path,inputBase, outputBase, maxSize): This function finds the combinations for merging.
-* path = File path
-* inputBase = Input File base name
-* outputBase = Output File base name
-* maxSize = Maximum File size specified by the user.
+
+path = File path
+
+inputBase = Input File base name
+
+outputBase = Output File base name
+
+maxSize = Maximum File size specified by the user
+
 Once the combinations are found, the function called CreateFile() from writer.py
 
 File 2 - writer.py
@@ -27,3 +32,5 @@ out - output file base name
 sizeMapper - A dictionary which maps filesize to filename.
 
 Sample Execution:
+Run main.py
+(Example Screenshot is given below)
