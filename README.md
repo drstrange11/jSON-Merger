@@ -17,7 +17,11 @@ path = file path
 
 base = Input file base name
 
-- merge(path,inputBase, outputBase, maxSize): This function finds the combinations for merging.
+- merge(path,inputBase, outputBase, maxSize):
+
+#### Uses Sliding Window Technique to find the optimal combination
+
+This function finds the combinations for merging.
 
 path = File path
 
