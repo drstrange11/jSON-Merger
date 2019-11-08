@@ -1,5 +1,9 @@
 # jSON-Merger
 
+##### Algorithmic Complexity - O(N) 
+
+##### N - Number of combinations
+
 ### There are 2 files present
 
 **File 1 - main.py**
