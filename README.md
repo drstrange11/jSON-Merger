@@ -1,8 +1,8 @@
 # jSON-Merger
 
-##### Algorithmic Complexity - O(N) 
+#### Algorithmic Complexity - O(N) 
 
-##### N - Number of combinations
+#### N - Number of combinations
 
 ### There are 2 files present
 
