@@ -1,6 +1,6 @@
 # jSON-Merger
 
-#### Algorithmic Complexity - O(N) 
+#### Algorithmic Complexity - O(N)  (For the sliding window)
 
 #### N - Number of combinations
 
